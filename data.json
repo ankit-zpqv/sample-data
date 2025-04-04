@@ -1,10 +1,10 @@
 [
   {
-    "pagename": "home",
+    "pageName": "home",
     "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Home Page</title>\n  <style>\n    body { font-family: Arial, sans-serif; margin: 40px; background: #f0f0f0; }\n    h1 { color: #2c3e50; }\n  </style>\n</head>\n<body>\n  <h1>Welcome to the Home Page</h1>\n  <p>This is the main page of the site.</p>\n</body>\n</html>"
   },
   {
-    "pagename": "about",
+    "pageName": "about",
     "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>About Page</title>\n  <style>\n    body { font-family: Georgia, serif; margin: 40px; background: #fffbe6; }\n    h1 { color: #8e44ad; }\n  </style>\n</head>\n<body>\n  <h1>About Us</h1>\n  <p>This page tells you more about our team and mission.</p>\n</body>\n</html>"
   }
 ]
